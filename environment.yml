@@ -1,0 +1,16 @@
+name: tic
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - bokeh
+  - pandas
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+  - scipy
+  - python=3.9
+  - jupyterlab
+  - nodejs
+  - xgboost
+prefix: /home/ramon/anaconda3/envs/tic
